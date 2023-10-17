@@ -1,0 +1,25 @@
+body {
+  background: rgba(255, 195, 69, 0.8);
+}
+
+ul {
+  list-style-type: none;
+}
+
+.recipeList {
+    border: 10px solid;
+    border-radius: 5px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    background-color: rgba(251, 181, 34, 0.8);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ingredient {
+  border: 1.5px solid rgba(231, 158, 253, 0.8);
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgba(160, 186, 255, 0.8);
+}
